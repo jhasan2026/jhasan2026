@@ -1,7 +1,3 @@
-Here is a **proper, clean, and professional GitHub Profile README** optimized for recruiters and visitors.
-You can directly paste this into your `README.md` inside the `jhasan2026` repository.
-
----
 
 # 👋 Hi, I'm Jehan Hasan
 
@@ -90,18 +86,6 @@ An online platform for developers and builders to:
 
 ---
 
-## 📊 GitHub Stats (Optional Section)
-
-```markdown
-![Jehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasan2026&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhasan2026&layout=compact)
-```
-
-(You can uncomment and use this if you want stats displayed.)
-
----
-
 ## 📫 Contact Me
 
 📧 Email: [jhasan2026@gmail.com](mailto:jhasan2026@gmail.com)
@@ -112,12 +96,3 @@ An online platform for developers and builders to:
 ## ⚡ Personal Motto
 
 > "Build practical systems. Keep learning. Stay consistent."
-
----
-
-If you'd like, I can now create:
-
-* 🔥 A **modern stylish version with badges**
-* 🎯 A **minimal one-page clean version**
-* 🧠 A **recruiter-focused version**
-* 🌍 A version optimized for **remote job applications**

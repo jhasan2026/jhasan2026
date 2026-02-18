@@ -1,68 +1,57 @@
-Here’s a clean, professional, and well-structured GitHub profile `README.md` based on your CV 
-
-You can copy and paste this into your **`README.md`** of the `jhasan2026` repository.
+Here is a **proper, clean, and professional GitHub Profile README** optimized for recruiters and visitors.
+You can directly paste this into your `README.md` inside the `jhasan2026` repository.
 
 ---
 
-# Hi 👋 I'm Jehan Hasan
+# 👋 Hi, I'm Jehan Hasan
 
-🎓 **CSE Undergraduate | Full-Stack Developer | ML Enthusiast**
+🎓 CSE Undergraduate at United International University
+💻 Full-Stack Developer | 🤖 Machine Learning Enthusiast
 📍 Dhaka, Bangladesh
-
-I’m a passionate Computer Science student at **United International University** (CGPA: 3.91/4.00) 
-I enjoy building scalable web applications and working with Machine Learning to solve real-world problems.
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on full-stack web applications
-* 🌱 Exploring Machine Learning & Deep Learning
-* 💡 Interested in AI-powered systems and scalable backend architecture
-* 🏆 Ranked 390 in Global Mathematical Talent Probe (2017/18) 
-* 🎓 100% & 50% Academic Scholarship Holder 
+I am a passionate Computer Science student with strong academic performance (CGPA: 3.91/4.00) and hands-on experience in full-stack web development and machine learning.
+
+I enjoy building real-world applications that solve practical problems — especially systems that combine backend engineering with intelligent features.
+
+* 🔭 Currently working on scalable web applications
+* 🌱 Learning advanced Machine Learning & Deep Learning
+* 💡 Interested in AI-powered systems and backend architecture
+* 🏆 Ranked 390 in Global Mathematical Talent Probe
+* 🎓 Academic Scholarship Holder
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-* C / C++
-* Java
-* Python
+`C` `C++` `Java` `Python`
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-* HTML5, CSS3
-* JavaScript, TypeScript
-* React
-* Tailwind CSS
+`HTML5` `CSS3` `JavaScript` `TypeScript`
+`React` `Tailwind CSS`
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-* Django
-* PHP
-* Next.js
+`Django` `PHP` `Next.js`
 
-### 🗄️ Database
+### 🗄️ Databases
 
-* SQLite3
-* MySQL Server
+`SQLite3` `MySQL`
 
-### 🤖 Data Science & ML
+### 🤖 Machine Learning & Data Science
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
-* PyTorch
-* Keras
-* TensorFlow
+`NumPy` `Pandas` `Matplotlib`
+`Scikit-learn` `TensorFlow` `Keras` `PyTorch`
 
 ### 🔧 Tools
 
-* Git & GitHub
+`Git` `GitHub`
 
 ---
 
@@ -71,54 +60,64 @@ I enjoy building scalable web applications and working with Machine Learning to 
 ### 🌍 Explore Plus – Tour Management System
 
 A web-based tour management system that helps users plan secure and comfortable travel experiences worldwide.
-Features customizable tour packages based on price, location, and participants.
+Includes customizable tour packages based on budget, location, and group size.
 
-**Tech Used:** PHP, MySQL, JavaScript, CSS
+**Tech:** PHP, MySQL, JavaScript, CSS
 
 ---
 
-### 🥗 NutriPick – Personalized Nutrition Management
+### 🥗 NutriPick – Personalized Nutrition Management System
 
-A system that generates personalized meal plans, daily nutrition tracking, and exercise recommendations.
+A smart nutrition system that generates:
 
-**Tech Used:** Django, Tailwind CSS, SQLite3, Scikit-learn
+* Daily nutrition plans
+* Personalized meal suggestions
+* Exercise recommendations
+
+**Tech:** Django, Tailwind CSS, SQLite3, Scikit-learn
 
 ---
 
 ### 🏗️ BuildIT – Real Estate Collaboration Platform
 
-An online platform for real estate developers and builders to collaborate, manage projects, and find job opportunities.
+An online platform for developers and builders to:
 
-**Tech Used:** Django, Tailwind CSS, SQLite3
+* Manage real estate projects
+* Collaborate with workers
+* Connect with companies
 
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science & Engineering**
-United International University (2022 – 2026)
-CGPA: 3.91 / 4.00 
+**Tech:** Django, Tailwind CSS, SQLite3
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats (Optional Section)
 
-* 📧 Email: [jhasan2026@gmail.com](mailto:jhasan2026@gmail.com) 
-* 💻 GitHub: [github.com/jhasan2026](https://github.com/jhasan2026)
+```markdown
+![Jehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhasan2026&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhasan2026&layout=compact)
+```
+
+(You can uncomment and use this if you want stats displayed.)
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact Me
 
-I love combining mathematics and programming to build intelligent systems.
+📧 Email: [jhasan2026@gmail.com](mailto:jhasan2026@gmail.com)
+💻 GitHub: [https://github.com/jhasan2026](https://github.com/jhasan2026)
 
 ---
 
-If you'd like, I can also create:
+## ⚡ Personal Motto
 
-* 🔥 A more **minimal & modern** version
-* 🎨 A **fancy GitHub-stats focused** version (with badges & activity graphs)
-* 🧠 A version optimized for **recruiters**
-* 🌍 A version tailored for **remote job applications**
+> "Build practical systems. Keep learning. Stay consistent."
 
+---
 
+If you'd like, I can now create:
+
+* 🔥 A **modern stylish version with badges**
+* 🎯 A **minimal one-page clean version**
+* 🧠 A **recruiter-focused version**
+* 🌍 A version optimized for **remote job applications**

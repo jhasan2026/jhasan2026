@@ -89,7 +89,7 @@ An online platform for developers and builders to:
 ## 📫 Contact Me
 
 📧 Email: [jhasan2026@gmail.com](mailto:jhasan2026@gmail.com)
-💻 GitHub: [https://github.com/jhasan2026](https://github.com/jhasan2026)
+💻 Portfolio: [https://jhasan2026.github.io/Jehan-Hasan/)
 
 ---
 
